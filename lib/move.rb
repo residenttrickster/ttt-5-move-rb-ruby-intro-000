@@ -8,7 +8,6 @@ end
 
 def input_to_index(user_input)
   user_input = user_input.to_i - 1
-  index
 end
 
 def move(board, index, current_player = "X")
